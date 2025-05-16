@@ -243,10 +243,7 @@ h1 {
 /* media queries  */
 @media (max-width: 768px) {
 
-    .wrapper {
-        height: 100%;
-        width: 100%;
-    }
+    
 
     .parameter-container {
         flex-direction: column;
